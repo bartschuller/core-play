@@ -10,3 +10,5 @@ dist
 .settings
 .target
 .cache
+.idea*
+/lib/.sigar_shellrc
